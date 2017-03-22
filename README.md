@@ -1,2 +1,4 @@
 # Powershell
-Repository for powershell scripts
+Repository for Powershell scripts
+
+I'm new and learning

@@ -1,4 +1,4 @@
-# Powershell
+# ADScripts
 Repository for Powershell scripts
 
 I'm new and learning
